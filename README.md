@@ -45,3 +45,7 @@ pip install -r requirements.txt`
 
 ▪️Format: hash:password:hash_type
 
+
+## requirements.txt
+
+`bcrypt==4.0.1`
