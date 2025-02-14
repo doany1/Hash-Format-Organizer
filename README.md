@@ -46,6 +46,6 @@ Example output:
 ▪️Format: hash:password:hash_type
 
 
-## requirements.txt
-
+## requirements:
+install:
 `bcrypt==4.0.1`
