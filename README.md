@@ -14,9 +14,9 @@
 Supported formats: `NTLM | bcrypt | SHA-1 | SHA-256 | SHA-512 | MD5`
 
 ## Installation
-`git clone https://github.com/yourusername/hash-organizer.git
-cd hash-organizer
-pip install -r requirements.txt` 
+`git clone https://github.com/doany1/hash-format-organizer.git`
+`cd hash-organizer`
+`pip install -r( read requirements)` 
 
 
 ## Usage:
