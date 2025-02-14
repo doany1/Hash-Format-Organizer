@@ -22,9 +22,9 @@ Supported formats: `NTLM | bcrypt | SHA-1 | SHA-256 | SHA-512 | MD5`
 ## Usage:
 `python sort_hashes.py input_file.txt`
 
-# Example output:
-# Processing 1,000 lines...
-# Completed! Check *_hashes.txt files
+ Example output:
+ Processing 1,000 lines...
+ Completed! Check *_hashes.txt files
 
 ## Input Format:
 `5f4dcc3b5aa765d61d8327deb882cf99:password123`
