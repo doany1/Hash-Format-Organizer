@@ -1,6 +1,7 @@
 # Hash Format Organizer 🔐
 
 **Sort unknown password hashes into common formats (NTLM, bcrypt, SHA-2, MD5)**
+Blog-Post:(https://doany101.gitbook.io/doanys-blog/blog-posts/how-i-organized-1.2gb-of-unknown-password-hashes)
 
 ![Python Version](https://img.shields.io/badge/Python-3.7%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
